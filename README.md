@@ -6,7 +6,7 @@ git clone git@github.com:fedemarkco/Avature.git
 Y correr los siguientes comandos:
 ```
 cd Avature
-python -m venv project
+python3 -m venv project
 source project/bin/activate
 pip install -r requirements.txt
 python manage.py migrate
