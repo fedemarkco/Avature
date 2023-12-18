@@ -1,0 +1,11 @@
+coverage==7.3.3
+Django==4.2.2
+django-filter==23.2
+djangorestframework==3.14.0
+flake8==6.1.0
+isort==5.13.2
+pytest==7.3.1
+pytest-cov==4.1.0
+pytest-django==4.5.2
+python-dotenv==1.0.0
+requests==2.31.0
